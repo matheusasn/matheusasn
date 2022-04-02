@@ -1,8 +1,8 @@
 ### Olá! Eu sou Matheus Augusto 
 
-- 🔭 Hoje eu trabalho como analista de sistemas - full stack
-- 🌱 Estou me formando pela Universidade Federal de Campina grande
-- 😄 Pronomes: Ele/Dele
+- Hoje eu trabalho como analista de sistemas - full stack
+- Estou me formando pela Universidade Federal de Campina grande
+- Pronomes: Ele/Dele
 
 <div align="center">
   <a href="https://github.com/matheusasn">
